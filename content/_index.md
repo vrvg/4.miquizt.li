@@ -1,7 +1,7 @@
-this is a collection about [me](https://van.ge/) as a student nahui-miquiztli.
+*the student* [vange](https://van.ge)
 
-on this site, you'll find
+this site is [about](/about) the
 
-* coursework @ [pcc](https://pasadena.edu)
-* [about](/about) my studies in the language *en-us*
+* [coursework](/courses) taken @ [pcc](https://pasadena.edu) in the language *en-us*
+* and
 * [projects](/projects) influenced by my studies
