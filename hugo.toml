@@ -1,0 +1,4 @@
+baseURL = 'https://4.miquizt.li/'
+languageCode = 'en-us'
+title = 'the student'
+theme = 'univer'
