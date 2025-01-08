@@ -1,0 +1,9 @@
+{
+	"name": "nahui-muiquiztli",
+	"version": "1.0.0",
+	"description": "the student",
+	"private": true,
+	"scripts": {
+		"build": "hugo --cleanDestinationDir"
+	}
+}
